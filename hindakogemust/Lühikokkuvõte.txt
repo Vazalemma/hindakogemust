@@ -1,22 +1,26 @@
-Prooviülesande lahendamise lühikokkuvõte:
+ProoviÃ¼lesande lahendamise lÃ¼hikokkuvÃµte:
 -------------------------------------------------------------------------
 
-Ülesanne oli väga huvitav ja lõbus! Mulle väga meeldis.
+Ãœlesanne oli vÃ¤ga huvitav ja lÃµbus! Mulle vÃ¤ga meeldis.
 
-Kõige raskem osa  oli söögikohtade tabel,  kuna väga palju komponente oli
-ühte kohta kokku pressitud. Raskusastmelt teine oli söögikohtade muutmine
+KÃµige raskem osa  oli sÃ¶Ã¶gikohtade tabel,  kuna vÃ¤ga palju komponente oli
+Ã¼hte kohta kokku pressitud. Raskusastmelt teine oli sÃ¶Ã¶gikohtade muutmine
 ja lisamine, kolmandal hinnangu andmine, ning sisselogimine oli kerge.
 
-Kasutasin oma kooli (TTÜ) Dijkstra MySQL-serverit, nii et rakendus on minu
+Kasutasin oma kooli (TTÃœ) Dijkstra MySQL-serverit, nii et rakendus on minu
 enda alamdomeeni all.
 
 http://dijkstra.cs.ttu.ee/~heouna/hindakogemust/
 http://dijkstra.cs.ttu.ee/~heouna/hindakogemust/admin/
 
-Lõpp produktiga olen ma ise päris rahul. Arvatavasti ei ole see kõige
-perfektsem, ning arvatavasti ei pruugi see ka kõige turvalisem olla,
-aga muidu üldvaates ning algatuseks pole viga midagi :)
+Et nÃ¤ha administraatori vaadet, kasuta seda kasutajat:
+Kasutajanimi: admin
+Parool: admin
+
+LÃµpp produktiga olen ma ise pÃ¤ris rahul. Arvatavasti ei ole see kÃµige
+perfektsem, ning arvatavasti ei pruugi see ka kÃµige turvalisem olla,
+aga muidu Ã¼ldvaates ning algatuseks pole viga midagi :)
 
 Loodetavasti meeldib teile ka.
 
- - Hendrik Õunapuu -
+ - Hendrik Ã•unapuu -
