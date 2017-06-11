@@ -1,0 +1,22 @@
+Prooviülesande lahendamise lühikokkuvõte:
+-------------------------------------------------------------------------
+
+Ülesanne oli väga huvitav ja lõbus! Mulle väga meeldis.
+
+Kõige raskem osa  oli söögikohtade tabel,  kuna väga palju komponente oli
+ühte kohta kokku pressitud. Raskusastmelt teine oli söögikohtade muutmine
+ja lisamine, kolmandal hinnangu andmine, ning sisselogimine oli kerge.
+
+Kasutasin oma kooli (TTÜ) Dijkstra MySQL-serverit, nii et rakendus on minu
+enda alamdomeeni all.
+
+http://dijkstra.cs.ttu.ee/~heouna/hindakogemust/
+http://dijkstra.cs.ttu.ee/~heouna/hindakogemust/admin/
+
+Lõpp produktiga olen ma ise päris rahul. Arvatavasti ei ole see kõige
+perfektsem, ning arvatavasti ei pruugi see ka kõige turvalisem olla,
+aga muidu üldvaates ning algatuseks pole viga midagi :)
+
+Loodetavasti meeldib teile ka.
+
+ - Hendrik Õunapuu -

@@ -1,0 +1,152 @@
+#cellbutton {
+	width: 100%;
+}
+table#places {
+	border-collapse: collapse;   
+}
+#places tr {
+	background-color: #eee;
+	border-top: 2px solid #fff;
+}
+#places tr:hover {
+	background-color: #ccc;
+}
+#places th {
+	background-color: #ccc;
+}
+#places td {
+	padding: 3px 5px;
+}
+#places th {
+	padding: 0px;
+}
+#places td:hover {
+	cursor: pointer;
+}
+#invis {
+	display: none;
+}
+#cellbutton {
+  	padding: 2px;
+  	font-size: 16px;
+  	margin: 0px;
+  	display: block;
+  	font-family: Sand-Serif;
+  	border: 1px solid black;
+  	background: #CCCCCC;
+}
+#cellbutton:focus {
+  	outline: none;
+}
+#cellbutton:hover {
+  	cursor: pointer;
+  	background-color: #EEEEEE;
+}
+#cellbutton:active {
+  	background-color: #AAAAAA;
+}
+#search {
+	float: right;
+	margin-bottom: 2px;
+}
+#colname {
+	width: 240px;
+}
+#coladdress {
+	width: 180px;
+}
+#colaverage {
+	width: 120px;
+}
+#colrated {
+	width: 120px;
+}
+#coladmin {
+	width: 70px;
+	font-weight: normal;
+}
+#table {
+	width: 660px;
+	border: 3px solid black;
+	padding: 6px;
+	position: relative;
+	left: 120px;
+}
+#choose {
+	font-size: 30px;
+	font-weight: bold;
+	margin: 10px;
+}
+#tableadmin {
+	width: 730px;
+	border: 3px solid black;
+	padding: 6px;
+	position: relative;
+	left: 120px;
+}
+#prevnext {
+  	padding: 2px 8px;
+  	font-size: 16px;
+  	margin: 0px;
+	margin-top: 4px;
+  	display: inline-block;
+  	font-family: Sand-Serif;
+  	border: none;
+  	background: none;
+	color: #0000DD;
+}
+#prevnext:disabled {
+	color: #999999;
+}
+#prevnext:focus {
+  	outline: none;
+}
+#prevnext:hover {
+  	cursor: pointer;
+	text-decoration: underline;
+}
+#prevnext:disabled:hover {
+  	cursor: default;
+	text-decoration: none;
+}
+#prevnextform {
+	margin-left: 72%;
+	display: block;
+}
+#delbut {
+  	padding: 2px 6px;
+  	font-size: 16px;
+  	margin: 0px;
+  	display: block;
+  	font-family: Sand-Serif;
+  	border: 1px solid black;
+  	background: #EEEEEE;
+	width: 70px;
+}
+#delbut:focus {
+  	outline: none;
+}
+#delbut:hover {
+  	cursor: pointer;
+  	background-color: #FF0000;
+}
+#delbut:active {
+  	background-color: #CCCCCC;
+}
+#new {
+	padding: 5px 10px;
+	float: left;
+	display: block;
+	background: #EEEEEE;
+	position: relative;
+	bottom: 32px;
+	text-decoration: none;
+	color: black;
+	border: 2px solid black;
+}
+#new:hover {
+	background: #FFFFFF;
+}
+#new:active {
+	background: #CCCCCC;
+}

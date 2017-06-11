@@ -1,0 +1,162 @@
+.rating {
+	overflow: hidden;
+  	vertical-align: top;
+  	display: block;
+  	width: 255px;
+  	height: 25px;
+}
+.rating > input {
+  	opacity: 0;
+	display: none;
+}
+.rating > label {
+  	position: relative;
+  	display: block;
+  	float: right;
+  	background: url('empty.png');
+  	background-size: 25px 25px;
+}
+.rating > label:before {
+  	display: block;
+  	opacity: 0;
+  	content: '';
+  	width: 25px;
+  	height: 25px;
+  	background: url('full.png');
+	background-size: 25px 25px;
+  	transition: opacity 0.1s linear;
+}
+.rating > label:hover:before,  .rating > label:hover ~ label:before,  .rating:not(:hover) > :checked ~ label:before { opacity: 1; }
+
+
+
+
+
+#fulladd {
+	display: block;
+	margin: 0 auto;
+	width: 430px;
+	height: 400px;
+}
+#labels {
+	float: left;
+}
+#rate {
+	float: right;
+}
+#namefield {
+	width: 252px;
+	margin: 4px;
+	border: 2px solid black;
+	padding: 3px;
+}
+#namefield:focus {
+	outline: none;
+}
+#textfield {
+	display: block;
+	resize: none;
+	width: 250px;
+	height: 250px;
+	margin: 4px;
+	border: 2px solid black;
+	padding: 4px;
+}
+#textfield:focus {
+	outline: none;
+}
+#label1 {
+	margin: 6px;
+	margin-bottom: 15px;
+}
+#label2 {
+	margin-left: 6px;
+	margin-bottom: 245px;
+}
+#label3 {
+	margin-left: 6px;
+}
+#back {
+	display: inline-block;
+	float: left;
+	color: #0000DD;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+#rate {
+	width: 273px;
+}
+#submitrating {
+	display: block;
+	float: right;
+	background: #EEEEEE;
+	border: 2px solid black;
+	padding: 4px 10px;
+	margin: 6px;
+}
+#submitrating:focus {
+	outline: none;
+}
+#submitrating:hover {
+	background: #FFFFFF;
+}
+#submitrating:action {
+	background: #CCCCCC;
+}
+#currentplace {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+#others {
+	display: block;
+	font-size: 30px;
+	font-weight: bold;
+	margin: 0 auto;
+	margin-bottom: 30px;
+	width: 420px;
+}
+
+
+
+
+#rating {
+	width: 420px;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+#delcom {
+	display: inline-block;
+	float: right;
+}
+#delbut {
+	background: #EEEEEE;
+	border: 2px black solid;
+	padding: 0px 4px;
+}
+#delbut:focus {
+	outline: none;
+}
+#delbut:hover {
+	background: #FF0000;
+}
+#delbut:active {
+	background: #FF0000;
+}
+#bold {
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

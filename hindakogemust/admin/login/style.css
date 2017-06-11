@@ -1,0 +1,57 @@
+#form {
+	width: 220px;
+	display: block;
+	margin: 10px;
+}
+#formsubmit {
+	padding: 5px 10px;
+	margin: 5px;
+	display: block;
+	float: right;
+	background: #EEEEEE;
+	text-decoration: none;
+	color: black;
+	border-radius: 2px;
+	border: 2px solid black;
+}
+#formsubmit:focus {
+	outline: none;
+}
+#formsubmit:hover {
+	background: #FFFFFF;
+}
+#formsubmit:active {
+	background: #CCCCCC;
+}
+#loginform {
+	width: 239px;
+}
+#loginfull {
+	width: 370px;
+}
+#labels {
+	float: left;
+	position: relative;
+	top: 30px;
+}
+#login {
+	float: right;
+	position: relative;
+	top: 30px;
+}
+#label {
+	margin: 12px;
+	font-size: 16px;
+	font-weight: normal;
+}
+#loginfull {
+	border: 3px solid black;
+	padding: 20px;
+	background: #DDDDDD;
+	height: 160px;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0 auto;
+	position: relative;
+	top: 100px;
+}

@@ -1,0 +1,23 @@
+Miks ma valisin PHP ja mitte Java?
+
+  Prooviülesandes oli soovituslik kasutada Javat, aga ma pole varem Javat
+kasutanud  veebirakenduste  jaoks.  Ma oskan  Javat  muidu küll,  ma olen
+sellega  piisavalt programmeerinud.  Lisaks ei ole ma  SpringMVC-ga üldse
+varem kokku puutunud.  Mavenit ma tunnen,  ma olen  üks kord  sellega ühe
+projekti dekompileerinud,  nii et  kompileerida ma  oleksin suutnud,  kui
+ma oleksin Java valinud.
+  Nii et põhimõtteliselt oli mul kaks võimalust: Kas üritada Javaga saada
+hakkama, millega ma üldse kindel pole (50/50 kas saab töötav rakendus või
+mitte),  või kasutan PHP-d,  millega ma olen  100% kindel et  suudan teha
+töötava rakenduse.  Ma arvasin, et 3 päeva pole piisavalt palju, et saada
+Javaga korda, ning minu eesmärk  oli teha töötav rakendus, nii et ma siis
+otsustasin PHP-ga teha. Ma olen lõpp prodktiga ise rahul.
+  Mul oli tegelikut ka plaan see suvi üritada Java veebirakendusega ühen-
+dada, aga ma pole veel selleni jõudnud. Mul on üks isiklik projekt, mille
+jaoks Java  kiire faili lugeja  hea oleks.  Äkki jõuan selle suve jooksul
+ise veel välja mõelda, kuidas Java veebirakendusega siduda.
+
+Loodetavasti on lõpptulemus teile ikkagi meelepärane.
+Vähemalt tekkis töötav rakendus, mis näeb hea välja :)
+
+ - Hendrik Õunapuu -
